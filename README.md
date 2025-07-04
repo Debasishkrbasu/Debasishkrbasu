@@ -10,7 +10,7 @@
 
 I'm Debasish Kr Basu, a passionate and dedicated 3rd-year B.Tech CSE student from **Udaipur, Tripura**.  
 Though my college placement is not strong, I believe in hard work and self-preparation.  
-I'm currently focused on building a career in **tech** as well as preparing for **government jobs and GATE 2026**.
+I'm currently focused on building a career in **tech**.
 
 I’m balancing:
 
