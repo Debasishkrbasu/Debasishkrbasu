@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, I'm Debasish Kumar Basu
 
-<!--
-**Debasishkrbasu/Debasishkrbasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer Science & Engineering (CSE)**  
+📍 Udaipur, Tripura, India | 🧑‍🎓 3rd Year Student  
+🎯 Tech Learner | Web Dev Beginner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm Debasish Kr Basu, a passionate and dedicated 3rd-year B.Tech CSE student from **Udaipur, Tripura**.  
+Though my college placement is not strong, I believe in hard work and self-preparation.  
+I'm currently focused on building a career in **tech** as well as preparing for **government jobs and GATE 2026**.
+
+I’m balancing:
+
+---
+
+## ⚙️ My Skills
+
+- **Programming Languages**:  
+  `C`, `C++`, `Python`, `JavaScript` (basic)
+
+- **Web Development**:  
+  `HTML`, `CSS`, `Tailwind`, `JavaScript`, `React` (beginner), `Node.js` (learning)
+
+- **Tools & Platforms**:  
+  `Git`, `GitHub`, `VS Code`, `Linux Terminal`
+
+- **Cybersecurity Basics**:  
+  `Nmap`, `Firewall Testing`, `Network Scanning` (basic level)
+
+---
+
+
+
+
+## 📫 Connect With Me
+
+- 📧 Email: **debasishkumarbasu2005@gmail.com**
+- 🧑‍💻 GitHub: [Debasishkrbasu](https://github.com/Debasishkrbasu
+  
+> 🌱 *"I come from a small town, but I dream big. Every day I learn something new to build my future in both the tech world and the government sector."*
+
+⭐ _Thanks for visiting my GitHub profile!_
