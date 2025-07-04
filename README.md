@@ -40,6 +40,6 @@ I’m balancing:
 - 📧 Email: **debasishkumarbasu2005@gmail.com**
 - 🧑‍💻 GitHub: [Debasishkrbasu](https://github.com/Debasishkrbasu
   
-> 🌱 *"I come from a small town, but I dream big. Every day I learn something new to build my future in both the tech world and the government sector."*
+
 
 ⭐ _Thanks for visiting my GitHub profile!_
