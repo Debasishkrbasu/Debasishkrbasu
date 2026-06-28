@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm Debasish Kr Basu, a passionate and dedicated 3rd-year B.Tech CSE student from **Udaipur, Tripura**.  
+I'm Debasish Kr Basu, a passionate and dedicated final year B.Tech CSE student from **Tripura**.  
 Though my college placement is not strong, I believe in hard work and self-preparation.  
 I'm currently focused on building a career in **tech**.
 
@@ -19,13 +19,13 @@ I’m balancing:
 ## ⚙️ My Skills
 
 - **Programming Languages**:  
-  `C`, `C++`, `Python`, `JavaScript` (basic)
+  `C`, `C++`, `Python`, `JavaScript`
 
 - **Web Development**:  
   `HTML`, `CSS`, `Tailwind`, `JavaScript`, `React` (beginner), `Node.js` (learning)
 
 - **Tools & Platforms**:  
-  `Git`, `GitHub`, `VS Code`, `Linux Terminal`
+  `Git`, `GitHub`, `VS Code`
 
 - **Cybersecurity Basics**:  
   `Nmap`, `Firewall Testing`, `Network Scanning` (basic level)
